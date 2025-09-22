@@ -1,0 +1,8 @@
+streamlit>=1.36
+tensorflow-cpu>=2.12
+scikit-learn＝1.6.1
+pandas>=2.0
+numpy>=1.24
+lifelines>=0.27
+skops>=0.9
+h5py>=3.9
